@@ -1,0 +1,22 @@
+// ...existing code...
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+.env
+.env.local
+.venv/
+venv/
+ENV/
+env/
+.idea/
+.vscode/
+.pytest_cache/
+.mypy_cache/
+dist/
+build/
+*.egg-info
+instance/
+.DS_Store
